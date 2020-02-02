@@ -1,7 +1,7 @@
 # ShoutBox
 A highly customizable popup window with browser feature detection
 
-[![Release](https://img.shields.io/badge/release-0.1.0-success)]()
+[![Release](https://img.shields.io/badge/release-0.1.0-success)](/../../releases/)
 [![License](https://img.shields.io/badge/license-MIT-success)](LICENSE)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-blue)](https://paypal.me/tobiaslidstrom)
 [![Liberapay](https://img.shields.io/liberapay/patrons/tobiaslidstrom)](https://liberapay.com/tobiaslidstrom)
@@ -16,7 +16,7 @@ A highly customizable popup window with browser feature detection
 ShoutBox is easy to setup and highly customizable. Options are defined in `shoutBox.setOptions` and any styling is done by CSS. See the [Documentation](docs/reference.md) for more information.
 
 ### Installation
-Download and install the [latest version](/releases) from GitHub.
+Download and install the [latest version](/../../releases/) from GitHub.
 
 Add the following in the page header:
 ```html
