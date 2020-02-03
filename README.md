@@ -1,8 +1,8 @@
 # ShoutBox
 A highly customizable popup window with browser feature detection
 
-[![Release](https://img.shields.io/badge/release-0.1.0-success)](/../../releases/)
-[![License](https://img.shields.io/badge/license-MIT-success)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/tobiaslidstrom/shoutbox)](/../../releases/)
+[![License](https://img.shields.io/github/license/tobiaslidstrom/shoutbox)](LICENSE)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-blue)](https://paypal.me/tobiaslidstrom)
 [![Liberapay](https://img.shields.io/liberapay/patrons/tobiaslidstrom)](https://liberapay.com/tobiaslidstrom)
 
